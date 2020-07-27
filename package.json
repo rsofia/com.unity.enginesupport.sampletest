@@ -1,0 +1,41 @@
+{
+  "name": "com.unity.enginesupport.sampletest",
+  "version": "1.0.5",
+  "displayName": "Sample Test",
+  "description": "This is an example package",
+  "unity": "2019.3",
+  "unityRelease": "7f1",
+  "keywords": [
+    "Sample1",
+    "Samplekeyword2",
+    "Samplekeyword3"
+  ],
+  "author": {
+    "name": "Unity User",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "samples": [
+    {
+      "displayName": "A Unity Package",
+      "description": "A sample .unitypacakge to test.",
+      "path": "Samples/A Unity Package"
+    },
+    {
+      "displayName": "Another Test",
+      "description": "A sample .unitypacakge to test.",
+      "path": "Samples/Another Test"
+    }
+  ],
+  "resource": [
+    {
+      "displayName": "Somre Resource",
+      "description": "a description",
+      "path": "resource/A Unity Package"
+    }
+  ],
+  "dependencies": {
+    "com.unity.ext.nunit": "1.0.0"
+  },
+  "type": "library"
+}

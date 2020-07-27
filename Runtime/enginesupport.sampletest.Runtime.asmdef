@@ -1,0 +1,8 @@
+﻿{
+	"name": "enginesupport.sampletest.Runtime",
+	"overrideReferences": true,
+	"precompiledReferences": [
+		"nunit.framework.dll"
+	],
+	"autoReferenced": true
+}
